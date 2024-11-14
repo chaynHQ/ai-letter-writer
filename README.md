@@ -1,2 +1,2 @@
 # tools
-This repository is for all the amazing tools that we create at Chayn. 
+This repository is for tools we create at chayn. 
