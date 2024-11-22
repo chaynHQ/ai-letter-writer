@@ -1,0 +1,26 @@
+.col-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.column {
+    flex: 1; 
+}
+
+.story-textarea {
+    width: 603px;
+    height: 533px;
+    resize: none; /* Optional: prevents resizing */
+    font-size: 16px; 
+    padding: 10px; 
+    border-color: lightgrey;
+    border-radius: 5px;
+  }
+
+  .btn-container-tellstory{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+    padding-top: 10px;
+}
